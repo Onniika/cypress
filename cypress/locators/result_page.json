@@ -1,0 +1,10 @@
+{
+  "title": "#messageHeader",
+  "close": "#exitMessageButton > .exitIcon",
+  "footer": ".link",
+  "login_ok": "Авторизация прошла успешно",
+  "recovery_pasword": "Успешно отправили пароль на e-mail",
+  "not_exist": "Такого логина или пароля нет",
+  "validation_problem": "Нужно исправить проблему валидации"
+
+}
